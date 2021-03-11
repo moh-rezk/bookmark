@@ -1,0 +1,16 @@
+.bg-color{
+    background-color: #eeeeee;
+}
+
+
+.bg-color-items{
+
+    background-color: #eeeeee;
+    background-image: linear-gradient(to bottom ,#eee,#fff);
+}
+.h1-color{
+
+
+    color: #AAA;
+    font-size: 2.1rem;;
+}
